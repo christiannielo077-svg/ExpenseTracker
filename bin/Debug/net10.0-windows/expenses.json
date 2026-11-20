@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "utang",
+    "Category": "Food",
+    "Amount": 400.00,
+    "PaymentMethod": "GCash",
+    "IsRecurring": false,
+    "Notes": ""
+  }
+]

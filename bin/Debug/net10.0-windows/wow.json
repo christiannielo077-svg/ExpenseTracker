@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "wow",
+    "Category": "Food",
+    "Amount": 1000.00,
+    "PaymentMethod": "Cash",
+    "IsRecurring": false,
+    "Notes": ""
+  },
+  {
+    "Id": 2,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "sad",
+    "Category": "Food",
+    "Amount": 110.00,
+    "PaymentMethod": "GCash",
+    "IsRecurring": false,
+    "Notes": ""
+  },
+  {
+    "Id": 3,
+    "Date": "2026-11-20T00:00:00+08:00",
+    "Description": "hap",
+    "Category": "Bills",
+    "Amount": 1000.00,
+    "PaymentMethod": "Card",
+    "IsRecurring": false,
+    "Notes": ""
+  }
+]
